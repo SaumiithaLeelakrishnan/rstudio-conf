@@ -355,7 +355,7 @@ Slides | GitHub Repo
 
 How can we level up the R skills of a team with varied backgrounds and levels of experience in R? At PicnicHealth, a healthtech company that collects and abstracts patient medical record for use in research, we've come up with a number of strategies to share. We'll discuss building internal packages that assist with common tasks and distributing them with Posit Package Manager, hosting dashboards on Posit Connect and integrating them with other internal apps, maintaining a wiki, and holding regular Office HouRs to give folks a place to ask for advice. We'll share examples and show some projects that have benefited from this approach. This talk is suitable for anyone who has at least one coworker using R.
 
-Slides | GitHub Repo
+[Slides](https://docs.google.com/presentation/d/1dZYTz4EzHOkRKt7Ee29TuZo17xvsPUdd/edit?usp=drive_link&ouid=114939447239674597145&rtpof=true&sd=true) | GitHub Repo
 
 ### Partnering with Posit for progress on Environmental Stewardship
 💬 SAUMIITHA LEELAKRISHNAN
